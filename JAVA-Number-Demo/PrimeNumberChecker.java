@@ -1,3 +1,5 @@
+package number;
+
 public class PrimeNumberChecker {
 
     public boolean isPrime(int num) {
