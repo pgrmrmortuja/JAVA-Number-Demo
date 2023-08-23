@@ -1,3 +1,5 @@
+package number;
+
 public class ArmstrongNumberChecker {
 
     public boolean isArmstrong(int num) {
