@@ -1,3 +1,5 @@
+package number;
+
 public class PerfectNumberChecker {
 
     public boolean isPerfect(int num) {
